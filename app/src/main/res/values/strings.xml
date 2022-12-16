@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">splash</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email" />
+    <string name="password" />
+    <string name="confirm_password" />
+    <string name="sign_up" />
+    <string name="already_have_an_account_login" />
+    <string name="don_t_have_an_account_sign_in" />
+    <string name="login" />
+    <string name="signed" />
+</resources>

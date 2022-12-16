@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="emailLayout" type="id" />
+    <item name="emailEt" type="id" />
+    <item name="passwordLayout" type="id" />
+    <item name="passET" type="id" />
+    <item name="button" type="id" />
+    <item name="textView" type="id" />
+    <item name="confirmPasswordLayout" type="id" />
+    <item name="confirmPassEt" type="id" />
+</resources>
